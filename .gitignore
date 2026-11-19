@@ -14,3 +14,6 @@ DerivedData/
 .vscode/
 .idea/
 .claude/settings.local.json
+
+# Local notes
+PLAN.md
